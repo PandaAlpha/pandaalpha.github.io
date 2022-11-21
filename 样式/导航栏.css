@@ -83,11 +83,11 @@
   margin-left: 60px;
   text-decoration: none;
 }
-.jieguo span {
+.jieguo a span {
   font: 18px arial;
   color: #f73131;
 }
-.jieguo p {
+.jieguo a p {
   font: 18px arial;
   color: #2440B3;
 }
