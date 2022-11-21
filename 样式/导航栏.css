@@ -54,6 +54,7 @@
   margin-left: 205px;
   border-right: 0px;
   margin-top: 13px;
+  position: relative;
 }
 .sousuokuangwai .sousuokuang {
   border: 0px;
@@ -62,7 +63,8 @@
   margin-left: 10px;
   outline-style: none;
   line-height: 20px;
-  font-size: 20px;
+  font: 16px '微软雅黑';
+  margin-top: 5px;
 }
 .sousuokuangwai .anniu {
   border: 1px none;
@@ -72,6 +74,8 @@
   background-color: #3388ff;
   color: #ffffff;
   font-weight: 400;
+  position: absolute;
+  right: 0;
 }
 .boxdaohang {
   width: 895px;
