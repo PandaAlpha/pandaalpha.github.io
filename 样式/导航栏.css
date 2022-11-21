@@ -77,6 +77,28 @@
   position: absolute;
   right: 0;
 }
+.jieguo {
+  width: 895px;
+  margin-top: 85px;
+  margin-left: 60px;
+  text-decoration: none;
+}
+.jieguo span {
+  font: 18px arial;
+  color: #f73131;
+}
+.jieguo p {
+  font: 18px arial;
+  color: #2440B3;
+}
+.jieguo .jieguotext {
+  font: 13px arial;
+  color: #333333;
+}
+.jieguo .lianjie {
+  font: 13px arial;
+  color: #626675;
+}
 .boxdaohang {
   width: 895px;
   height: 40px;
