@@ -1,10 +1,42 @@
+.logo {
+  width: 1200px;
+  height: 81px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-bottom: solid 2px #c81623;
+}
+.logo .img {
+  width: 100px;
+  height: 100%;
+  margin-left: 0;
+  float: left;
+}
+.logo .img img {
+  height: 81px;
+}
+.logo .silougen {
+  height: 80px;
+  width: 180px;
+  float: left;
+}
+.logo .silougen .text1 {
+  font-weight: 600;
+}
+.logo .silougen .text3 {
+  color: #666666;
+}
 .nav {
   background-color: pink;
   width: 1200px;
-  height: ;
+  height: 81px;
 }
 .nav ul {
+  height: 100%;
   list-style: none;
+}
+.nav ul li {
+  float: left;
+  height: 100%;
 }
 .wangzhan {
   font-size: 64px;
