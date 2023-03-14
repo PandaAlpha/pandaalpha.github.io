@@ -110,6 +110,24 @@ body {
 .neirong .box .text .buttom button a {
   text-decoration: none;
 }
+.fenlei {
+  width: 1200px;
+  height: 800px;
+  margin: 0 auto;
+  background-color: pink;
+}
+.fenlei .box {
+  width: 300px;
+  height: 430px;
+  float: left;
+  background-color: palegoldenrod;
+}
+.fenlei .box .neirong {
+  width: 275px;
+  height: 410px;
+  box-shadow: 2px 5px 10px #666666;
+  background-color: aquamarine;
+}
 .footbackground {
   height: 380px;
   background-color: #f2f2f2;
