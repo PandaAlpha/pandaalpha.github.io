@@ -130,14 +130,18 @@ body {
   position: relative;
   background-color: white;
 }
-.fenlei .box .neirong .img {
+.fenlei .box .neirong .fenqu {
   width: 285px;
   height: 185px;
-  background: url("../img/fenqu.png") no-repeat center;
+  padding-left: 50px;
+  padding-top: 10px;
   background-origin: border-box;
   background-size: contain;
 }
-.fenlei .box .neirong .img .title {
+.fenlei .box .neirong .fenqu img {
+  height: 175px;
+}
+.fenlei .box .neirong .fenqu .title {
   width: 228px;
   height: 125px;
   padding-top: 30px;
