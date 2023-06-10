@@ -114,13 +114,11 @@ body {
   width: 1200px;
   height: 800px;
   margin: 0 auto;
-  background-color: pink;
 }
 .fenlei .box {
   width: 300px;
   height: 430px;
   float: left;
-  background-color: palegoldenrod;
 }
 .fenlei .box .neirong {
   width: 285px;
@@ -130,18 +128,29 @@ body {
   position: relative;
   background-color: white;
 }
-.fenlei .box .neirong .fenqu {
+.fenlei .box .neirong .lanmu {
+  width: 285px;
+  height: 185px;
+  background-origin: border-box;
+  background-size: contain;
+}
+.fenlei .box .neirong .lanmu .fenqv {
   width: 285px;
   height: 185px;
   padding-left: 50px;
   padding-top: 10px;
-  background-origin: border-box;
-  background-size: contain;
 }
-.fenlei .box .neirong .fenqu img {
+.fenlei .box .neirong .lanmu .fenqv img {
   height: 175px;
 }
-.fenlei .box .neirong .fenqu .title {
+.fenlei .box .neirong .lanmu .steamlink {
+  width: 285px;
+  height: 185px;
+}
+.fenlei .box .neirong .lanmu .steamlink img {
+  height: 175px;
+}
+.fenlei .box .neirong .lanmu .title {
   width: 228px;
   height: 125px;
   padding-top: 30px;
